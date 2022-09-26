@@ -6,6 +6,6 @@ prints the result.](https://github.com/PrafullRaj/cpp-lab-ans/blob/main/Week%201
 [Q3 Searching an element in an array.](https://github.com/PrafullRaj/cpp-lab-ans/blob/main/Week%201/Q3%20Searching%20an%20element%20in%20an%20array.cpp)
 
 WEEK 2\
-[Q1. Write a program to demonstrate the Inline functions.](https://github.com/PrafullRaj/cpp-lab-ans/blob/main/week%202/Q1.%20Write%20a%20program%20to%20demonstrate%20the%20Inline%20functions.cpp)
-[Q2. 1. Programs to understand different function call mechanism.\
+[Q1. Write a program to demonstrate the Inline functions.](https://github.com/PrafullRaj/cpp-lab-ans/blob/main/week%202/Q1.%20Write%20a%20program%20to%20demonstrate%20the%20Inline%20functions.cpp)\
+[Q2. Programs to understand different function call mechanism.
  a. call by reference b. call by value](https://github.com/PrafullRaj/cpp-lab-ans/blob/main/week%202/Q1.%20Write%20a%20program%20to%20demonstrate%20the%20Inline%20functions.cpp)
