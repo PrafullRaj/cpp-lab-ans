@@ -5,4 +5,5 @@ prints the result.](https://github.com/PrafullRaj/cpp-lab-ans/blob/main/Week%201
 [Q2 Generate all the prime numbers between 1 and n, where n is a value supplied by the user.](https://github.com/PrafullRaj/cpp-lab-ans/blob/f0f43a3aaf8a84058c80b2d782628ec4c7495911/Week%201/Q2%20Generate%20all%20the%20prime%20numbers%20between%201%20and%20n%2C%20where%20n%20is%20a%20value%20supplied%20by%20the%20user.cpp)\
 [Q3 Searching an element in an array.](https://github.com/PrafullRaj/cpp-lab-ans/blob/main/Week%201/Q3%20Searching%20an%20element%20in%20an%20array.cpp)
 
-WEEK 2
+WEEK 2\
+[Q1. Write a program to demonstrate the Inline functions.](https://github.com/PrafullRaj/cpp-lab-ans/blob/main/week%202/Q1.%20Write%20a%20program%20to%20demonstrate%20the%20Inline%20functions.cpp)
