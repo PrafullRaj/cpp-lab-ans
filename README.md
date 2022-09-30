@@ -16,3 +16,8 @@ has the property of displaying the number of objects created of the class.](http
 [Q2 Write a Program using class to process Shopping List for a Departmental Store. The list 
 include details such as the Code No and Price of each item and perform the operations like 
 Adding, Deleting Items to the list and Printing the Total value of a Order.](https://github.com/PrafullRaj/cpp-lab-ans/blob/main/WEEK%203/Write%20a%20Program%20to%20design%20a%20class%20having%20static%20member%20function%20Named%20showcount()%20which%20%20has%20the%20property%20of%20displaying%20the%20number%20of%20objects%20created%20of%20the%20class.cpp)
+
+WEEK 4\
+[Q1 Write a Program which creates & uses array of object of a class.( for eg. implementing the 
+list of Managers of a Company having details such as Name, Age, etc..).
+ ](https://github.com/PrafullRaj/cpp-lab-ans/blob/main/WEEK%204/Write%20a%20Program%20which%20creates%20%26%20uses%20array%20of%20object%20of%20a%20class.(%20for%20eg.%20implementing%20the%20%20list%20of%20Managers%20of%20a%20Company%20having%20details%20such%20as%20Name%2C%20Age%2C%20etc..).cpp)
