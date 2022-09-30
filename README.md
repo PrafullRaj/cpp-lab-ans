@@ -8,7 +8,7 @@ prints the result.](https://github.com/PrafullRaj/cpp-lab-ans/blob/main/Week%201
 WEEK 2\
 [Q1. Write a program to demonstrate the Inline functions.](https://github.com/PrafullRaj/cpp-lab-ans/blob/main/week%202/Q1.%20Write%20a%20program%20to%20demonstrate%20the%20Inline%20functions.cpp)\
 [Q2. Programs to understand different function call mechanism.
- a. call by reference b. call by value](https://github.com/PrafullRaj/cpp-lab-ans/blob/main/week%202/Q1.%20Write%20a%20program%20to%20demonstrate%20the%20Inline%20functions.cpp)\
+ a. call by reference b. call by value](https://github.com/PrafullRaj/cpp-lab-ans/blob/main/week%202/Q1.%20Write%20a%20program%20to%20demonstrate%20the%20Inline%20functions.cpp)
  
  WEEK 3\
  [Q1 Write a Program to design a class having static member function Named showcount() which 
