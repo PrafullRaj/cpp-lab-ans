@@ -23,3 +23,8 @@ list of Managers of a Company having details such as Name, Age, etc..).
  ](https://github.com/PrafullRaj/cpp-lab-ans/blob/main/WEEK%204/Write%20a%20Program%20which%20creates%20%26%20uses%20array%20of%20object%20of%20a%20class.(%20for%20eg.%20implementing%20the%20%20list%20of%20Managers%20of%20a%20Company%20having%20details%20such%20as%20Name%2C%20Age%2C%20etc..).cpp)\
 [Q2 Write a Program to find Maximum out of Two Numbers using friend function. Note: Here 
 one number is a member of one class and the other number is member of some other class.](https://github.com/PrafullRaj/cpp-lab-ans/blob/main/WEEK%204/Write%20a%20Program%20to%20find%20Maximum%20out%20of%20Two%20Numbers%20using%20friend%20function.%20Note:%20Here%20%20one%20number%20is%20a%20member%20of%20one%20class%20and%20the%20other%20number%20is%20member%20of%20some%20other%20class.cpp)
+
+WEEK 5\
+[Q1 Write a Program to swap private data members of classes Named as class_1, class_2 using 
+friend function.
+](https://github.com/PrafullRaj/cpp-lab-ans/blob/main/WEEK%205/Write%20a%20Program%20to%20swap%20private%20data%20members%20of%20classes%20Named%20as%20class_1%2C%20class_2%20using%20%20friend%20function.cpp)
