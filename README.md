@@ -32,3 +32,7 @@ friend function.
 class should use an external function (use it as a friend function) to add two complex 
 numbers. The function should return an object of type complex representing the sum of two 
 complex numbers.](https://github.com/PrafullRaj/cpp-lab-ans/blob/main/WEEK%205/Write%20a%20Program%20to%20design%20a%20class%20complex%20to%20represent%20complex%20numbers.%20The%20complex%20%20class%20should%20use%20an%20external%20function%20(use%20it%20as%20a%20friend%20function)%20to%20add%20two%20complex%20%20numbers.%20The%20function%20should%20return%20an%20object%20of%20type%20complex%20representing%20the%20sum%20of%20two%20%20complex%20numbers.cpp)
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/PrafullRaj-cpp-lab-ans/count.svg" />
+</p>
