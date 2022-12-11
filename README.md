@@ -52,7 +52,9 @@ overloaded operators should work for a class vector](https://github.com/PrafullR
 [Q2 Write a program for developing a matrix class which can handle integer matrices of different dimensions.Also overload the operator for addition, multiplication& comparison of matrices](https://github.com/PrafullRaj/cpp-lab-ans/blob/main/WEEK%208/Write%20a%20program%20for%20developing%20a%20matrix%20class%20which%20can%20handle%20integer%20matrices%20of%20different%20%20dimensions.%20Also%20overload%20the%20operator%20for%20addition%2C%20multiplication%20%26%20comparison%20of%20%20matrices.cpp)
 
 WEEK 9\
-[Q1] 
+[Q1 Write a program to overload new/delete operators in a class](https://github.com/PrafullRaj/cpp-lab-ans/blob/main/WEEK%209/1.Write%20a%20program%20to%20overload%20newdelete%20operators%20in%20a%20class.cpp)\
+[Q2 Write a program in C++ to highlight the difference between overloaded assignment operator 
+and copy construct.](https://github.com/PrafullRaj/cpp-lab-ans/blob/main/WEEK%209/Write%20a%20program%20in%20C%2B%2B%20to%20highlight%20the%20difference%20between%20overloaded%20assignment%20operator%20%20and%20copy%20construct.cpp)
 
 
 
