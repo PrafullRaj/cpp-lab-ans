@@ -77,6 +77,9 @@ tape: book & tape should be separate classes having the base class as media). Th
 have the functionality for adding new item, issuing, deposit etc. the program should use the 
 runtime polymorphism.](https://github.com/PrafullRaj/cpp-lab-ans/blob/main/WEEK%2012/2.Write%20a%20program%20to%20design%20a%20class%20representing%20the%20information%20regarding%20digital%20library%20(books%2C%20%20tape:%20book%20%26%20tape%20should%20be%20separate%20classes%20having%20the%20base%20class%20as%20media).%20The%20class%20should%20%20have%20the%20functionality%20for%20adding%20new%20item%2C%20issuing%2C%20deposit%20etc.%20the%20program%20should%20use%20the%20%20runtime%20polymorphism.cpp)
 
+WEEK 13\
+[Q1Write a program to show conversion from string to int and vice-versa.](https://github.com/PrafullRaj/cpp-lab-ans/blob/main/WEEK%2013/1.Write%20a%20program%20to%20show%20conversion%20from%20string%20to%20int%20and%20vice-versa.cpp)\
+[Q2Write a program showing data conversion between objects of different classes](https://github.com/PrafullRaj/cpp-lab-ans/blob/main/WEEK%2013/2Write%20a%20program%20showing%20data%20conversion%20between%20objects%20of%20different%20classes.cpp)
 
 
 
