@@ -56,6 +56,15 @@ WEEK 9\
 [Q2 Write a program in C++ to highlight the difference between overloaded assignment operator 
 and copy construct.](https://github.com/PrafullRaj/cpp-lab-ans/blob/main/WEEK%209/Write%20a%20program%20in%20C%2B%2B%20to%20highlight%20the%20difference%20between%20overloaded%20assignment%20operator%20%20and%20copy%20construct.cpp)
 
+WEEK 10\
+[Q1 Write a Program illustrating how the constructors are implemented and the order in which 
+they are called when the classes are inherited. Use three classes Named alpha, beta, gamma such 
+that alpha, beta are base class and gamma is derived class inheriting alpha & beta](https://github.com/PrafullRaj/cpp-lab-ans/blob/main/WEEK%2010/1.Write%20a%20Program%20illustrating%20how%20the%20constructors%20are%20implemented%20and%20the%20order%20in%20which%20%20they%20are%20called%20when%20the%20classes%20are%20inherited.%20Use%20three%20classes%20Named%20alpha%2C%20beta%2C%20gamma%20such%20%20that%20alpha%2C%20beta%20are%20base%20class%20and%20gamma%20is%20derived%20class%20inheriting%20alpha%20%26%20beta.cpp)\
+[Q2 Write a Program to design a student class representing student roll no. and a test class 
+(derived class of student) representing the scores of the student in various subjects and sports class 
+representing the score in sports. The sports and test class should be inherited by a result class 
+having the functionality to add the scores and display the final result for a student.](https://github.com/PrafullRaj/cpp-lab-ans/blob/main/WEEK%2010/Write%20a%20Program%20to%20design%20a%20student%20class%20representing%20student%20roll%20no.%20and%20a%20test%20class%20%20(derived%20class%20of%20student)%20representing%20the%20scores%20of%20the%20student%20in%20various%20subjects%20and%20sports%20class%20%20representing%20the%20score%20in%20sports.%20The%20sports%20and%20test%20class%20should%20be%20inherited%20by%20a%20result%20class%20%20having%20the%20functionality%20to%20add%20the%20scores%20and%20display%20the%20final%20result%20for%20a%20student.cpp)
+
 
 
 
