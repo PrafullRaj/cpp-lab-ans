@@ -81,6 +81,11 @@ WEEK 13\
 [Q1Write a program to show conversion from string to int and vice-versa.](https://github.com/PrafullRaj/cpp-lab-ans/blob/main/WEEK%2013/1.Write%20a%20program%20to%20show%20conversion%20from%20string%20to%20int%20and%20vice-versa.cpp)\
 [Q2Write a program showing data conversion between objects of different classes](https://github.com/PrafullRaj/cpp-lab-ans/blob/main/WEEK%2013/2Write%20a%20program%20showing%20data%20conversion%20between%20objects%20of%20different%20classes.cpp)
 
+WEEK 14\
+[Q1Write a program showing data conversion between objects of different classes and conversion 
+routine should reside in destination class.](https://github.com/PrafullRaj/cpp-lab-ans/blob/main/WEEK%2014/1.Write%20a%20program%20showing%20data%20conversion%20between%20objects%20of%20different%20classes%20and%20conversion%20%20routine%20should%20reside%20in%20destination%20class.cpp)\
+[Q2Write a program to copy the contents of one file to another.](https://github.com/PrafullRaj/cpp-lab-ans/blob/main/WEEK%2014/2.Write%20a%20program%20to%20copy%20the%20contents%20of%20one%20file%20to%20another.cpp)
+
 
 
 <p align="center"> 
