@@ -45,6 +45,18 @@ functionality to insert and retrieve the elements of the matrix](https://github.
 [Q2 Write a program to design a class representing complex numbers and having the functionality 
 of performing addition & multiplication of two complex numbers using operator overloading.
 ](https://github.com/PrafullRaj/cpp-lab-ans/blob/main/WEEK%207/Write%20a%20program%20to%20design%20a%20class%20representing%20complex%20numbers%20and%20having%20the%20functionality%20%20of%20performing%20addition%20%26%20multiplication%20of%20two%20complex%20numbers%20using%20operator%20overloading.cpp)
+
+WEEK 8\
+[Q1 Write a Program to overload operators like *, <<, >> using friend function. The following 
+overloaded operators should work for a class vector](https://github.com/PrafullRaj/cpp-lab-ans/blob/main/WEEK%208/Write%20a%20Program%20to%20overload%20operators%20like%20*%2C%20%3C%3C%2C%20%3E%3E%20using%20friend%20function.%20The%20following%20%20overloaded%20operators%20should%20work%20for%20a%20class%20vector.cpp)\
+[Q2 Write a program for developing a matrix class which can handle integer matrices of different dimensions.Also overload the operator for addition, multiplication& comparison of matrices](https://github.com/PrafullRaj/cpp-lab-ans/blob/main/WEEK%208/Write%20a%20program%20for%20developing%20a%20matrix%20class%20which%20can%20handle%20integer%20matrices%20of%20different%20%20dimensions.%20Also%20overload%20the%20operator%20for%20addition%2C%20multiplication%20%26%20comparison%20of%20%20matrices.cpp)
+
+WEEK 9\
+[Q1] 
+
+
+
+
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/PrafullRaj-cpp-lab-ans/count.svg" />
