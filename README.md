@@ -65,6 +65,12 @@ that alpha, beta are base class and gamma is derived class inheriting alpha & be
 representing the score in sports. The sports and test class should be inherited by a result class 
 having the functionality to add the scores and display the final result for a student.](https://github.com/PrafullRaj/cpp-lab-ans/blob/main/WEEK%2010/Write%20a%20Program%20to%20design%20a%20student%20class%20representing%20student%20roll%20no.%20and%20a%20test%20class%20%20(derived%20class%20of%20student)%20representing%20the%20scores%20of%20the%20student%20in%20various%20subjects%20and%20sports%20class%20%20representing%20the%20score%20in%20sports.%20The%20sports%20and%20test%20class%20should%20be%20inherited%20by%20a%20result%20class%20%20having%20the%20functionality%20to%20add%20the%20scores%20and%20display%20the%20final%20result%20for%20a%20student.cpp)
 
+WEEK 11\
+[Q1 Write a program to maintain the records of person with details (Name and Age) and find the 
+eldest among them. The program must use this pointer to return the result.](https://github.com/PrafullRaj/cpp-lab-ans/blob/main/WEEK%2011/Write%20a%20program%20to%20maintain%20the%20records%20of%20person%20with%20details%20(Name%20and%20Age)%20and%20find%20the%20%20eldest%20among%20them.%20The%20program%20must%20use%20this%20pointer%20to%20return%20the%20result.cpp)\
+[Q2 Write a Program to illustrate the use of pointers to objects which are related by inheritance](https://github.com/PrafullRaj/cpp-lab-ans/blob/main/WEEK%2011/2.Write%20a%20Program%20to%20illustrate%20the%20use%20of%20pointers%20to%20objects%20which%20are%20related%20by%20inheritance.cpp)
+
+
 
 
 
