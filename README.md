@@ -32,6 +32,12 @@ friend function.
 class should use an external function (use it as a friend function) to add two complex 
 numbers. The function should return an object of type complex representing the sum of two 
 complex numbers.](https://github.com/PrafullRaj/cpp-lab-ans/blob/main/WEEK%205/Write%20a%20Program%20to%20design%20a%20class%20complex%20to%20represent%20complex%20numbers.%20The%20complex%20%20class%20should%20use%20an%20external%20function%20(use%20it%20as%20a%20friend%20function)%20to%20add%20two%20complex%20%20numbers.%20The%20function%20should%20return%20an%20object%20of%20type%20complex%20representing%20the%20sum%20of%20two%20%20complex%20numbers.cpp)
+
+WEEK 6\
+[Q1 Write a Program using copy constructor to copy data of an object to another object.](https://github.com/PrafullRaj/cpp-lab-ans/blob/main/WEEK%206/Write%20a%20Program%20using%20copy%20constructor%20to%20copy%20data%20of%20an%20object%20to%20another%20object.cpp)\
+[Q2 Write a Program to allocate memory dynamically for an object of a given class using class’s 
+constructor.
+](https://github.com/PrafullRaj/cpp-lab-ans/blob/main/WEEK%206/Write%20a%20Program%20to%20allocate%20memory%20dynamically%20for%20an%20object%20of%20a%20given%20class%20using%20class%E2%80%99s%20%20constructor.cpp)
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/PrafullRaj-cpp-lab-ans/count.svg" />
