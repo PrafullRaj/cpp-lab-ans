@@ -86,6 +86,10 @@ WEEK 14\
 routine should reside in destination class.](https://github.com/PrafullRaj/cpp-lab-ans/blob/main/WEEK%2014/1.Write%20a%20program%20showing%20data%20conversion%20between%20objects%20of%20different%20classes%20and%20conversion%20%20routine%20should%20reside%20in%20destination%20class.cpp)\
 [Q2Write a program to copy the contents of one file to another.](https://github.com/PrafullRaj/cpp-lab-ans/blob/main/WEEK%2014/2.Write%20a%20program%20to%20copy%20the%20contents%20of%20one%20file%20to%20another.cpp)
 
+WEEK 15\
+[Q1Write a program to implement the exception handling.](https://github.com/PrafullRaj/cpp-lab-ans/blob/main/WEEK%2015/1.Write%20a%20program%20to%20implement%20the%20exception%20handling.cpp)\
+[Q2 Write a program to maintain the elementary database of employee using file concepts](https://github.com/PrafullRaj/cpp-lab-ans/blob/main/WEEK%2015/2.Write%20a%20program%20to%20maintain%20the%20elementary%20database%20of%20employee%20using%20file%20concepts.cpp)
+
 
 
 <p align="center"> 
