@@ -70,6 +70,12 @@ WEEK 11\
 eldest among them. The program must use this pointer to return the result.](https://github.com/PrafullRaj/cpp-lab-ans/blob/main/WEEK%2011/Write%20a%20program%20to%20maintain%20the%20records%20of%20person%20with%20details%20(Name%20and%20Age)%20and%20find%20the%20%20eldest%20among%20them.%20The%20program%20must%20use%20this%20pointer%20to%20return%20the%20result.cpp)\
 [Q2 Write a Program to illustrate the use of pointers to objects which are related by inheritance](https://github.com/PrafullRaj/cpp-lab-ans/blob/main/WEEK%2011/2.Write%20a%20Program%20to%20illustrate%20the%20use%20of%20pointers%20to%20objects%20which%20are%20related%20by%20inheritance.cpp)
 
+WEEK 12\
+[Q1Write a program illustrating the use of virtual functions in class.](https://github.com/PrafullRaj/cpp-lab-ans/blob/main/WEEK%2012/1.Write%20a%20program%20illustrating%20the%20use%20of%20virtual%20functions%20in%20class.cpp)\
+[Q2 Write a program to design a class representing the information regarding digital library (books, 
+tape: book & tape should be separate classes having the base class as media). The class should 
+have the functionality for adding new item, issuing, deposit etc. the program should use the 
+runtime polymorphism.](https://github.com/PrafullRaj/cpp-lab-ans/blob/main/WEEK%2012/2.Write%20a%20program%20to%20design%20a%20class%20representing%20the%20information%20regarding%20digital%20library%20(books%2C%20%20tape:%20book%20%26%20tape%20should%20be%20separate%20classes%20having%20the%20base%20class%20as%20media).%20The%20class%20should%20%20have%20the%20functionality%20for%20adding%20new%20item%2C%20issuing%2C%20deposit%20etc.%20the%20program%20should%20use%20the%20%20runtime%20polymorphism.cpp)
 
 
 
